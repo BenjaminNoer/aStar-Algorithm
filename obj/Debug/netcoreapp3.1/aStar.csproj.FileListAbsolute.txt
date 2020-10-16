@@ -1,0 +1,26 @@
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\aStar\bin\Debug\netcoreapp3.1\aStar.exe
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\aStar\bin\Debug\netcoreapp3.1\aStar.deps.json
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\aStar\bin\Debug\netcoreapp3.1\aStar.runtimeconfig.json
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\aStar\bin\Debug\netcoreapp3.1\aStar.runtimeconfig.dev.json
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\aStar\bin\Debug\netcoreapp3.1\aStar.dll
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\aStar\bin\Debug\netcoreapp3.1\aStar.pdb
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\aStar\obj\Debug\netcoreapp3.1\aStar.csprojAssemblyReference.cache
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\aStar\obj\Debug\netcoreapp3.1\aStar.AssemblyInfoInputs.cache
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\aStar\obj\Debug\netcoreapp3.1\aStar.AssemblyInfo.cs
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\aStar\obj\Debug\netcoreapp3.1\aStar.csproj.CoreCompileInputs.cache
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\aStar\obj\Debug\netcoreapp3.1\aStar.dll
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\aStar\obj\Debug\netcoreapp3.1\aStar.pdb
+\\campus.yeovil.net\yeovildfs\Data\Student\694523\My Documents\Visual Studio 2019\BenProjects\aStar\obj\Debug\netcoreapp3.1\aStar.genruntimeconfig.cache
+D:\Coding\C#\aStar\bin\Debug\netcoreapp3.1\aStar.exe
+D:\Coding\C#\aStar\bin\Debug\netcoreapp3.1\aStar.deps.json
+D:\Coding\C#\aStar\bin\Debug\netcoreapp3.1\aStar.runtimeconfig.json
+D:\Coding\C#\aStar\bin\Debug\netcoreapp3.1\aStar.runtimeconfig.dev.json
+D:\Coding\C#\aStar\bin\Debug\netcoreapp3.1\aStar.dll
+D:\Coding\C#\aStar\bin\Debug\netcoreapp3.1\aStar.pdb
+D:\Coding\C#\aStar\obj\Debug\netcoreapp3.1\aStar.csprojAssemblyReference.cache
+D:\Coding\C#\aStar\obj\Debug\netcoreapp3.1\aStar.AssemblyInfoInputs.cache
+D:\Coding\C#\aStar\obj\Debug\netcoreapp3.1\aStar.AssemblyInfo.cs
+D:\Coding\C#\aStar\obj\Debug\netcoreapp3.1\aStar.csproj.CoreCompileInputs.cache
+D:\Coding\C#\aStar\obj\Debug\netcoreapp3.1\aStar.dll
+D:\Coding\C#\aStar\obj\Debug\netcoreapp3.1\aStar.pdb
+D:\Coding\C#\aStar\obj\Debug\netcoreapp3.1\aStar.genruntimeconfig.cache
